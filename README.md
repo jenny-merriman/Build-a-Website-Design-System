@@ -23,7 +23,7 @@ Screenshot 3:
 
 Screenshot 4:
 
-<img width="1280" alt="web_style_guide_4" src=“https://user-images.githubusercontent.com/68631829/90003106-80f00580-dc8b-11ea-9d60-da846aad3552.png">
+<img width="1280" alt="web_style_guide_4" src="https://user-images.githubusercontent.com/68631829/90003538-21462a00-dc8c-11ea-98b8-849ba27032c1.png">
 
 Screenshot 5:
 
