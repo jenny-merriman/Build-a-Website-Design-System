@@ -11,8 +11,7 @@ In this project, you’ll be building your own basic design system for a website
 ### Screenshots:
 Screenshot 1:
 
-<img width="1279" alt="web_style_guide_1" src=“https://user-images.githubusercontent.com/68631829/90002859-29519a00-dc8b-11ea-88fc-095ceaa6c9da.png">
-
+<img width="1279" alt="web_style_guide_1" src="https://user-images.githubusercontent.com/68631829/90004701-01176a80-dc8e-11ea-9c3f-53660fb65b5a.png">
 Screenshot 2:
 
 <img width="1280" alt="web_style_guide_2" src=“https://user-images.githubusercontent.com/68631829/90002961-4f773a00-dc8b-11ea-9b4f-618c4c9aba9b.png">
