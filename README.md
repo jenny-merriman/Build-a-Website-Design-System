@@ -31,4 +31,4 @@ Screenshot 5:
 
 Screenshot 6:
 
-<img width="1280" alt="web_style_guide_6" src="https://user-images.githubusercontent.com/68631829/90003268-bf85c000-dc8b-11ea-99b5-0eaf5043b881.png">
+<img width="1276" alt="web_style_guide_6" src="https://user-images.githubusercontent.com/68631829/90003872-a3365300-dc8c-11ea-873b-cbe4f5a6a484.png">
