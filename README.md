@@ -11,24 +11,20 @@ In this project, you’ll be building your own basic design system for a website
 ### Screenshots:
 Screenshot 1:
 
-<img width="1279" alt="web_style_guide_1" src="https://user-images.githubusercontent.com/68631829/90004701-01176a80-dc8e-11ea-9c3f-53660fb65b5a.png">
+<img width="1258" alt="web_style_guide_1" src="https://user-images.githubusercontent.com/68631829/90006772-746eab80-dc91-11ea-98cf-66ba6c7aaa4e.png">
 
 Screenshot 2:
 
-<img width="1280" alt="web_style_guide_2" src="https://user-images.githubusercontent.com/68631829/90004839-3cb23480-dc8e-11ea-99af-145cd4fc1d31.png">
+<img width="1280" alt="web_style_guide_2" src="https://user-images.githubusercontent.com/68631829/90006845-9831f180-dc91-11ea-8d0d-bed29072db30.png">
 
 Screenshot 3:
 
-<img width="1274" alt="web_style_guide_3" src="https://user-images.githubusercontent.com/68631829/90005089-9dda0800-dc8e-11ea-958d-62f9de2169bc.png">
+<img width="1280" alt="web_style_guide_3" src="https://user-images.githubusercontent.com/68631829/90006895-aed84880-dc91-11ea-88f1-1e4a03a99566.png">
 
 Screenshot 4:
 
-<img width="1272" alt="web_style_guide_4" src="https://user-images.githubusercontent.com/68631829/90005195-c104b780-dc8e-11ea-997f-ffa3969a480e.png">
+<img width="1280" alt="web_style_guide_4" src="https://user-images.githubusercontent.com/68631829/90006955-c9122680-dc91-11ea-8940-e43b1da5cb75.png">
 
 Screenshot 5:
 
-<img width="1276" alt="web_style_guide_5" src="https://user-images.githubusercontent.com/68631829/90005280-e1cd0d00-dc8e-11ea-9e80-6d0a3ab9760e.png">
-
-Screenshot 6:
-
-<img width="1276" alt="web_style_guide_6" src="https://user-images.githubusercontent.com/68631829/90005368-06c18000-dc8f-11ea-8d4f-784a9ef1380c.png">
+<img width="1280" alt="web_style_guide_5" src="https://user-images.githubusercontent.com/68631829/90007026-e5ae5e80-dc91-11ea-9392-9fa235632140.png">
