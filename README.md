@@ -5,7 +5,7 @@
 To create a single webpage for a style guide for a website.
 
 ### Project Brief:
-In this project, you’ll be building your own basic design system for a website. On your site, you’ll collect all the colors, fonts, and some of the repeating styles.'
+'In this project, you’ll be building your own basic design system for a website. On your site, you’ll collect all the colors, fonts, and some of the repeating styles.'
 
 ### Screenshots:
 Screenshot 1:
